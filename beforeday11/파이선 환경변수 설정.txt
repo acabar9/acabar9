@@ -1,0 +1,7 @@
+PATH 마지막에 C:\Python27; 추가
+
+PYTHONPATH 새로 만들어서 C:\Python27; 입력
+
+
+컨트롤 알트 B
+컨트롤 쉬프트 B

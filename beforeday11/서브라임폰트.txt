@@ -1,0 +1,12 @@
+{
+	"font_face": "NanumGothicCoding",
+	"font_size": 16,
+	"ignored_packages":
+	[
+		"Vintage"
+	]
+}
+
+
+ÆùÆ®
+

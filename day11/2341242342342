@@ -1,0 +1,5 @@
+a=input()
+for b in range(0,a) :
+	for i in range(b) : 
+		print " ",
+	print "*"
