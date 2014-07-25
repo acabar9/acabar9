@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <title>RENDER_TEMPLATE</title>
+</head>
+<body>
+	<div>
+		age :{{age}}
+	</div>
+	<div>
+		species :{{species}}
+	</div>
+	<div>
+		friend :{%for each in friend%}
+			<ul>
+				{{each}}
+			</ul>
+			{%endfor%}
+	</div>
+
+</body>
+</html>
